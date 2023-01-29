@@ -1,5 +1,5 @@
  <div align="center">
- <img src="../News/assets/appNews.gif"/>
+ <img src="../NewsappNews.gif"/>
  </div>
  
  🎭 Idioma/language
