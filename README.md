@@ -30,7 +30,7 @@ we would need the following screens:
   * __Information__: will contain the detailed information of the news
   * __Link__: will contain a link that will redirect us to the origin of the information.
 
-###[Let's start](#Starting)
+### [Let's start](#Starting)
 
 ## Descripción
 
