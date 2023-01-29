@@ -1,6 +1,6 @@
  🎭 Idioma/language
  
- [Español](#propio) [English](#propio)
+ [Español](#propio) [English](#propio) [nombre](#propio)
 
 # Workshop - React Native
 
@@ -29,7 +29,8 @@ La idea es crear una aplicación sobre Noticias en la cual se incluyan por lo me
  <!-- Get Started / Install: -->
 
 ## Getting started
-### <a name ="Español"></a>
+### <a name ="Español"></a> 
+### <a name ="nombre"></a>propio
 
 Prerequisites: To run the react-native project on your mobile or emulator you need some
 more specific settings, I recommend this link
