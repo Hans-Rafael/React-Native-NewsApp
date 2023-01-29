@@ -1,6 +1,6 @@
  🎭 Idioma/language
  
- [Español](#propio) [English](#propio) [nombre](#propio)
+ [Español](#propio) [English](#propio) [nombre](#Getting started)
 
 # Workshop - React Native
 
