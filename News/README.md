@@ -1,8 +1,31 @@
  🎭 Idioma/language
  
- [Español](#propio) [English](#propio) [nombre](#Getting started)
+ [Español](#propio) [English](#propio) [nombre](#Starting)
 
 # Workshop - React Native
+
+## Overview
+
+In this workshop we are going to create a mobile application using React Native, for this we will use Expo to generate the initial boilerplate and modify what is necessary to develop the application that will be described below.
+
+The idea is to create a News application that includes at least the following functionalities:
+
+  - Being able to show a list of the main News (Including Title and photo)
+  - Being able to show the list by different countries from a list.
+  - From an input that the user enters and returns only the news that contain said word or begin with it.
+  - Being able to go to the detail of the character where you should be able to select two subscreens:
+     * See the description of the info provided by the api (the free version provides only a couple of lines), author of the info, date published
+     * See a link where you can access the resources of the original information. 
+
+## screens configuration
+
+we would need the following screens:
+
+  * __Home__: will contain the search bar and the News list
+  * __Detail__: when the user selects a News, they must enter this screen with some lower tabs to switch between `Information` and `Links`. Initially the first one will be displayed.
+  * __Information__: will contain the detailed information of the news
+  * __Link__: will contain a link that will redirect us to the origin of the information.
+
 
 ## Overview
 
@@ -28,7 +51,7 @@ La idea es crear una aplicación sobre Noticias en la cual se incluyan por lo me
 
  <!-- Get Started / Install: -->
 
-## Getting started
+## Starting
 
 
 Prerequisites: To run the react-native project on your mobile or emulator you need some
