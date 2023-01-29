@@ -27,7 +27,7 @@ we would need the following screens:
   * __Link__: will contain a link that will redirect us to the origin of the information.
 
 
-## Descripción general
+## Descripción
 
 En este workshop vamos a crear una aplicación mobile utilizando React Native, para ello usaremos Expo para generar el boilerplate inicial y sobre el modificar lo necesario para elaborar la aplicación que se describirá a continuación.
 
