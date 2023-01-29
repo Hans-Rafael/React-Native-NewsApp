@@ -1,3 +1,5 @@
+# Workshop - React Native - The News App
+
  <div align="center">
  <img src="./appNews.gif"/>
  </div>
@@ -6,7 +8,6 @@
  
  [Español](#Descripción)
 
-# Workshop - React Native
 
 ## Overview
 
