@@ -29,8 +29,6 @@ La idea es crear una aplicación sobre Noticias en la cual se incluyan por lo me
  <!-- Get Started / Install: -->
 
 ## Getting started
-## Getting 
-### <a name ="nombre"></a>
 
 Prerequisites: To run the react-native project on your mobile or emulator you need some
 more specific settings, I recommend this link
